@@ -31,7 +31,6 @@
   "scripts": {
     "dev": "nodemon --exec ts-node src/index.ts",
     "start": "NODE_ENV=production node dist/index.js",
-    "start:build": "yarn tsc && cp -r /f/jwt-auth-example-master/server/.env /f/jwt-auth-example-master/server/dist && cd dist && node index.js",
     "build": "tsc -b",
     "deploy:full": "git add . && git commit -m Deploy && git push heroku master"
   }

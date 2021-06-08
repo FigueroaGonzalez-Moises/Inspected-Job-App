@@ -7,14 +7,11 @@ import {
     Field,
     Int,
     UseMiddleware,
-    // UseMiddleware,
 } from "type-graphql";
 import { compare, hash } from "bcryptjs";
 import { User } from "./entities/User";
-// import { MyContext } from "./MyContext";
 import { createRefreshToken, createAccessToken } from "./auth";
 import { isAuth } from "./isAuth";
-// import { verify } from "jsonwebtoken";
 
 @ObjectType()
 class LoginResponse {
