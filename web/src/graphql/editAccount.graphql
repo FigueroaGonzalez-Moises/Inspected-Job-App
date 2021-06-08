@@ -1,0 +1,17 @@
+mutation editAccount(
+    $userId: Float!
+    $first_name: String!
+    $last_name: String!
+    $password: String!
+    $age: String!
+    $phone_number: String!
+) {
+    editAccount(
+        userId: $userId
+        first_name: $first_name
+        last_name: $last_name
+        password: $password
+        age: $age
+        phone_number: $phone_number
+    )
+}

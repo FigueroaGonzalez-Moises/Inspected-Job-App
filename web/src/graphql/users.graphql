@@ -1,0 +1,9 @@
+query Users {
+    users {
+        first_name
+        last_name
+        id
+        age
+        phone_number
+    }
+}

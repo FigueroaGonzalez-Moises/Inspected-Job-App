@@ -1,0 +1,38 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "Awesome project developed with TypeORM.",
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.2",
+    "@types/cookie-parser": "^1.4.2",
+    "@types/cors": "^2.8.6",
+    "@types/express": "^4.17.1",
+    "@types/graphql": "^14.5.0",
+    "@types/jsonwebtoken": "^8.3.3",
+    "@types/node": "^15.12.2",
+    "nodemon": "^2.0.7",
+    "ts-node": "10.0.0",
+    "typescript": "^4.3.2"
+  },
+  "dependencies": {
+    "apollo-server-express": "^2.20.0",
+    "bcryptjs": "^2.4.3",
+    "class-validator": "^0.13.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "graphql": "^15.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^8.4.0",
+    "reflect-metadata": "^0.1.10",
+    "type-graphql": "^1.1.1",
+    "typeorm": "^0.2.31"
+  },
+  "scripts": {
+    "dev": "nodemon --exec ts-node src/index.ts",
+    "start": "NODE_ENV=production node dist/index.js",
+    "start:build": "yarn tsc && cp -r /f/jwt-auth-example-master/server/.env /f/jwt-auth-example-master/server/dist && cd dist && node index.js",
+    "build": "tsc -b",
+    "deploy:full": "git add . && git commit -m Deploy && git push heroku master"
+  }
+}

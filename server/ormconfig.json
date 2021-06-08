@@ -1,0 +1,27 @@
+[
+    {
+       "name": "production",
+       "synchronize": true,
+       "logging": true
+    },
+    {
+        "type": "postgres",
+        "host": "localhost",
+        "port": 5432,
+        "username": "POSTGRES",
+        "password": "POSTGRES",
+        "database": "jwt-auth-example",
+        "synchronize": true,
+        "logging": false,
+        "entities": ["src/entities/**/*.ts"],
+        "migrations": ["src/migration/**/*.ts"],
+        "subscribers": ["src/subscriber/**/*.ts"],
+        "cli": {
+            "entitiesDir": "src/entities",
+            "migrationsDir": "src/migration",
+            "subscribersDir": "src/subscriber"
+        }
+    }
+ ]
+
+
