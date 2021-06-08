@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Inspected-Job-App/static/css/main.34765b48.chunk.css",
-    "main.js": "/Inspected-Job-App/static/js/main.7b0771fe.chunk.js",
-    "main.js.map": "/Inspected-Job-App/static/js/main.7b0771fe.chunk.js.map",
+    "main.js": "/Inspected-Job-App/static/js/main.480c06e3.chunk.js",
+    "main.js.map": "/Inspected-Job-App/static/js/main.480c06e3.chunk.js.map",
     "runtime~main.js": "/Inspected-Job-App/static/js/runtime~main.21eeed32.js",
     "runtime~main.js.map": "/Inspected-Job-App/static/js/runtime~main.21eeed32.js.map",
-    "static/js/2.f3bb74d3.chunk.js": "/Inspected-Job-App/static/js/2.f3bb74d3.chunk.js",
-    "static/js/2.f3bb74d3.chunk.js.map": "/Inspected-Job-App/static/js/2.f3bb74d3.chunk.js.map",
+    "static/js/2.bf2fc647.chunk.js": "/Inspected-Job-App/static/js/2.bf2fc647.chunk.js",
+    "static/js/2.bf2fc647.chunk.js.map": "/Inspected-Job-App/static/js/2.bf2fc647.chunk.js.map",
     "index.html": "/Inspected-Job-App/index.html",
-    "precache-manifest.cf801575799db2bbcad47bc9c03c06be.js": "/Inspected-Job-App/precache-manifest.cf801575799db2bbcad47bc9c03c06be.js",
+    "precache-manifest.7e16141814d4558dcf2566b3ae49a18f.js": "/Inspected-Job-App/precache-manifest.7e16141814d4558dcf2566b3ae49a18f.js",
     "service-worker.js": "/Inspected-Job-App/service-worker.js",
     "static/css/main.34765b48.chunk.css.map": "/Inspected-Job-App/static/css/main.34765b48.chunk.css.map"
   }
