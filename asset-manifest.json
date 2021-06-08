@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Inspected-Job-App/static/css/main.1c427257.chunk.css",
-    "main.js": "/Inspected-Job-App/static/js/main.a7ea529d.chunk.js",
-    "main.js.map": "/Inspected-Job-App/static/js/main.a7ea529d.chunk.js.map",
+    "main.css": "/Inspected-Job-App/static/css/main.34765b48.chunk.css",
+    "main.js": "/Inspected-Job-App/static/js/main.e618e439.chunk.js",
+    "main.js.map": "/Inspected-Job-App/static/js/main.e618e439.chunk.js.map",
     "runtime~main.js": "/Inspected-Job-App/static/js/runtime~main.21eeed32.js",
     "runtime~main.js.map": "/Inspected-Job-App/static/js/runtime~main.21eeed32.js.map",
-    "static/js/2.c0de714a.chunk.js": "/Inspected-Job-App/static/js/2.c0de714a.chunk.js",
-    "static/js/2.c0de714a.chunk.js.map": "/Inspected-Job-App/static/js/2.c0de714a.chunk.js.map",
+    "static/js/2.f3bb74d3.chunk.js": "/Inspected-Job-App/static/js/2.f3bb74d3.chunk.js",
+    "static/js/2.f3bb74d3.chunk.js.map": "/Inspected-Job-App/static/js/2.f3bb74d3.chunk.js.map",
     "index.html": "/Inspected-Job-App/index.html",
-    "precache-manifest.6af26c45a938385af603f85b5c2775a6.js": "/Inspected-Job-App/precache-manifest.6af26c45a938385af603f85b5c2775a6.js",
+    "precache-manifest.7b08666d81961cf2769dbbee934e7dbd.js": "/Inspected-Job-App/precache-manifest.7b08666d81961cf2769dbbee934e7dbd.js",
     "service-worker.js": "/Inspected-Job-App/service-worker.js",
-    "static/css/main.1c427257.chunk.css.map": "/Inspected-Job-App/static/css/main.1c427257.chunk.css.map"
+    "static/css/main.34765b48.chunk.css.map": "/Inspected-Job-App/static/css/main.34765b48.chunk.css.map"
   }
 }
