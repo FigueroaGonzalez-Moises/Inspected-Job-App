@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Inspected-Job-App/static/css/main.09519814.chunk.css",
+    "main.css": "/Inspected-Job-App/static/css/main.6fdf1ba3.chunk.css",
     "main.js": "/Inspected-Job-App/static/js/main.a7ea529d.chunk.js",
     "main.js.map": "/Inspected-Job-App/static/js/main.a7ea529d.chunk.js.map",
     "runtime~main.js": "/Inspected-Job-App/static/js/runtime~main.21eeed32.js",
@@ -8,8 +8,8 @@
     "static/js/2.c0de714a.chunk.js": "/Inspected-Job-App/static/js/2.c0de714a.chunk.js",
     "static/js/2.c0de714a.chunk.js.map": "/Inspected-Job-App/static/js/2.c0de714a.chunk.js.map",
     "index.html": "/Inspected-Job-App/index.html",
-    "precache-manifest.d8942967361fcdd91f0639dfacdfc01e.js": "/Inspected-Job-App/precache-manifest.d8942967361fcdd91f0639dfacdfc01e.js",
+    "precache-manifest.99f7fe0e56c96609e1bb011bce3cd2e6.js": "/Inspected-Job-App/precache-manifest.99f7fe0e56c96609e1bb011bce3cd2e6.js",
     "service-worker.js": "/Inspected-Job-App/service-worker.js",
-    "static/css/main.09519814.chunk.css.map": "/Inspected-Job-App/static/css/main.09519814.chunk.css.map"
+    "static/css/main.6fdf1ba3.chunk.css.map": "/Inspected-Job-App/static/css/main.6fdf1ba3.chunk.css.map"
   }
 }
